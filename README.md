@@ -4,6 +4,6 @@ Ray Villalobos is a full-stack design/development teacher and Senior Staff Autho
 - [LinkedIn Learning/Lynda Courses](https://www.linkedin.com/learning/instructors/ray-villalobos)
 - [My Blog](https://raybo.org)
 - [LinkedIn](https://www.linkedin.com/in/planetoftheweb)
-= [YouTube](https://www.youtube.com/planetoftheweb)
+- [YouTube](https://www.youtube.com/planetoftheweb)
 - [Twitter](https://twitter.com/planetoftheweb) 
 - [Dribbble](https://dribbble.com/planetoftheweb)
