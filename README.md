@@ -1,6 +1,8 @@
-![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
 
 # About Ray
+
+![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
+
 Ray Villalobos is a full-stack design/development teacher and Senior Staff Author at LinkedIn Learning. His courses are focused on full-stack development topics like JavaScript, Angular, React, Svelte, Vue, Sass plus frameworks like Bootstrap and tools that can make you a faster, more efficient developer. He approaches teaching with a clear and practical style which can help you improve your skills through real-world exercises and projects. 
 
 Previously, as a Director of Multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He's also designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers.
