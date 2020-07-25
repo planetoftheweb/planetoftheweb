@@ -7,9 +7,14 @@ Ray Villalobos is a full-stack design/development teacher and Senior Staff Autho
 
 Previously, as a Director of Multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He's also designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=planetoftheweb)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=planetoftheweb&hide=php,ruby)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Content
 - [LinkedIn Courses](https://www.linkedin.com/learning/instructors/ray-villalobos)
-- [My Blog](https://raybo.org)
-- [LinkedIn](https://www.linkedin.com/in/planetoftheweb)
-- [YouTube](https://www.youtube.com/planetoftheweb)
-- [Twitter](https://twitter.com/planetoftheweb) 
+- [Blog](https://raybo.org)
+- [LinkedIn Profile](https://www.linkedin.com/in/planetoftheweb)
+- [YouTube Channel](https://www.youtube.com/planetoftheweb)
+- [Twitter Stream](https://twitter.com/planetoftheweb) 
 - [Dribbble](https://dribbble.com/planetoftheweb)
