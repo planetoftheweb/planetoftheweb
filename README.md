@@ -1,3 +1,5 @@
+![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
+
 # About Ray
 Ray Villalobos is a full-stack design/development teacher and Senior Staff Author at LinkedIn Learning. His courses are focused on full-stack development topics like JavaScript, Angular, React, Svelte, Vue, Sass plus frameworks like Bootstrap and tools that can make you a faster, more efficient developer. He approaches teaching with a clear and practical style which can help you improve your skills through real-world exercises and projects. 
 
