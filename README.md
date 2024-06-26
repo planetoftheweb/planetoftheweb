@@ -1,4 +1,4 @@
-![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
+![octocatprogrammer](https://github.com/planetoftheweb/planetoftheweb/assets/216426/731caf7f-add3-485f-a939-8f7f0444e6c0)
 
 Ray Villalobos is a full-stack design/development teacher and Senior Staff Author at [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos). His courses are focused on topics like [JavaScript](https://www.linkedin.com/learning/mastering-web-developer-interview-code?u=104), [React](https://www.linkedin.com/learning/react-spas?u=104), [Svelte](https://www.linkedin.com/learning/svelte-first-look?u=104), [Vue](https://www.linkedin.com/learning/vue-js-working-with-apis?u=104), [Sass](https://www.linkedin.com/learning/bootstrap-4-with-sass?u=104) plus frameworks like [Bootstrap](https://www.linkedin.com/learning/bootstrap-4-essential-training?u=104) and tools that can make you a faster, more efficient developer. He approaches teaching with a clear and practical style which can help you improve your skills through real-world exercises and projects. 
 
