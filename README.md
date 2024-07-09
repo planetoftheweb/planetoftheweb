@@ -5,9 +5,8 @@ Ray Villalobos is a full-stack design/development teacher and Senior Staff Autho
 As the Director of Multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers.
 
 ## My Content
-- [LinkedIn Courses](https://www.linkedin.com/learning/instructors/ray-villalobos)
-- [Blog](https://raybo.org)
 - [LinkedIn Profile](https://www.linkedin.com/in/planetoftheweb)
-- [YouTube Channel](https://www.youtube.com/planetoftheweb)
-- [Twitter Stream](https://twitter.com/planetoftheweb) 
-- [Dribbble](https://dribbble.com/planetoftheweb)
+- [LinkedIn Courses](https://www.linkedin.com/learning/instructors/ray-villalobos)
+- [X](https://twitter.com/planetoftheweb)
+- [Blog](https://raybo.org)
+- [YouTube](https://www.youtube.com/planetoftheweb)
